@@ -6,3 +6,6 @@ GitBook allows you to organize your book into chapters, each chapter is stored i
 - 数据帧
 - 数据体
 - 数据尾
+
+## 数据体要求
+- 数据格式等等
