@@ -18,3 +18,5 @@ https://github.com/Mogran/i24unitboard.git
 - 测试追加列表如下
 - 
 
+## 数据采集工单具体命令格式
+- - 数据头：0x7E
