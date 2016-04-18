@@ -10,5 +10,5 @@ GitBook allows you to organize your book into chapters, each chapter is stored i
 ## 数据体要求
 - 数据格式等等
 
-
+https://git.gitbook.com/mogran/i24unitboard.git
 https://github.com/Mogran/i24unitboard.git
